@@ -1,0 +1,26 @@
+_repo: Woman-and-Her-Saviour-in-Persia--13-By-a-Returned-Missionary_8699
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laurie, Thomas
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '8848'
+    url: http://www.gutenberg.org/2009/agents/8848
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women missionaries'
+- !lcsh 'Church of the East -- Missions'
+- !lcc 'BV'
+- !lcsh 'Missions -- Iran'
+- GITenberg
+title: "Woman and Her Saviour in Persia\r\nBy a Returned Missionary"
+url: http://www.gutenberg.org/ebooks/8699
