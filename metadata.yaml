@@ -1,5 +1,8 @@
 _repo: Woman-and-Her-Saviour-in-Persia--13-By-a-Returned-Missionary_8699
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Laurie, Thomas
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8848'
     url: http://www.gutenberg.org/2009/agents/8848
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8699#Woman-and-Her-Saviour-in-Persia--13-By-a-Returned-Missionary
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
